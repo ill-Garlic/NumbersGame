@@ -1,0 +1,16 @@
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ClickAck.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ClickRequest.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ClickResultPush.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ClickStatus.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\GameOverPush.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\GameStartPush.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ItemEffectPush.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\ItemType.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\JoinRoomRequest.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\LoginRequest.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\NextTargetPush.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\RegisterRequest.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\RoomStateDTO.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\dto\UseItemRequest.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\protocol\MessageType.java
+D:\DOAN_LTUDM\NumbersGame\common\src\main\java\com\numbergame\common\protocol\Packet.java

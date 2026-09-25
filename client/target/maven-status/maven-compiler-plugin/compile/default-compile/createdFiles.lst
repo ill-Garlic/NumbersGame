@@ -1,1 +1,6 @@
+com\numbergame\client\ClientSession.class
+com\numbergame\client\ui\game\GameBoardPanel.class
 com\numbergame\client\MainClient.class
+com\numbergame\client\ui\auth\LoginFrame.class
+com\numbergame\client\ui\game\GamePanel.class
+com\numbergame\client\ui\lobby\LobbyFrame.class
